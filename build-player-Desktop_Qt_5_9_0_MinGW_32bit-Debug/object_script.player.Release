@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\xffmpeg.o
+./release\videowidget.o
+./release\xvideothread.o
+./release\xslider.o
+./release\xaudioplay.o
+./release\wavefile.o
+./release\widget.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_xslider.o
+);
